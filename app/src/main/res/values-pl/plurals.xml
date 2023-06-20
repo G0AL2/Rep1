@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Przewiń do przodu o %d sekundę</item>
+        <item quantity="few">Przewiń do przodu o %d sekundy</item>
+        <item quantity="many">Przewiń do przodu o %d sekund</item>
+        <item quantity="other">Przewiń do przodu o %d sekundy</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Przewiń do tyłu o %d sekundę</item>
+        <item quantity="few">Przewiń do tyłu o %d sekundy</item>
+        <item quantity="many">Przewiń do tyłu o %d sekund</item>
+        <item quantity="other">Przewiń do tyłu o %d sekundy</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="one">Pobieranie 1 pliku</item>
+        <item quantity="few">Pobieranie plików %d</item>
+        <item quantity="many">Pobieranie plików %d</item>
+        <item quantity="other">Pobieranie plików %d</item>
+    </plurals>
+    <plurals name="push_unwatch_hint_title">
+        <item quantity="one">Nie obejrzano 1 filmu</item>
+        <item quantity="other">%d filmów nieobejrzanych</item>
+    </plurals>
+</resources>

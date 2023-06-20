@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notif_summary_active">
+        <item quantity="one">1 descarga de archivos</item>
+        <item quantity="other">%d archivos descargando</item>
+    </plurals>
+    <plurals name="push_unwatch_hint_title">
+        <item quantity="one">1 vídeo sin ver</item>
+        <item quantity="other">%d videos no vistos</item>
+    </plurals>
+</resources>

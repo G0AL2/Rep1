@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Előretekerés %d másodperccel</item>
+        <item quantity="other">Előretekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Visszatekerés %d másodperccel</item>
+        <item quantity="other">Visszatekerés %d másodperccel</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="one">1 fájl letöltése</item>
+        <item quantity="other">%d fájlok letöltése</item>
+    </plurals>
+    <plurals name="push_unwatch_hint_title">
+        <item quantity="one">1 videó meg nem nézett</item>
+        <item quantity="other">%d videó meg nem nézett</item>
+    </plurals>
+</resources>

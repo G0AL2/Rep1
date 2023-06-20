@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d seconde vooruitspoelen</item>
+        <item quantity="other">%d seconden vooruitspoelen</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d seconde terugspoelen</item>
+        <item quantity="other">%d seconden terugspoelen</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="one">1 bestand downloaden</item>
+        <item quantity="other">%d bestanden downloaden</item>
+    </plurals>
+    <plurals name="push_unwatch_hint_title">
+        <item quantity="one">1 video niet bekeken</item>
+        <item quantity="other">%d video&apos;s niet bekeken</item>
+    </plurals>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d সেকেন্ড ফাস্ট ফরওয়ার্ড করুন</item>
+        <item quantity="other">%d সেকেন্ড ফাস্ট ফরওয়ার্ড করুন</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d সেকেন্ড রিওয়াইন্ড করুন</item>
+        <item quantity="other">%d সেকেন্ড রিওয়াইন্ড করুন</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="one">1 ফাইল ডাউনলোড হচ্ছে</item>
+        <item quantity="other">%d ফাইল ডাউনলোড হচ্ছে</item>
+    </plurals>
+    <plurals name="push_unwatch_hint_title">
+        <item quantity="one">1 টি ভিডিও অপরিবর্তিত</item>
+        <item quantity="other">%d ভিডিও অপরিবর্তিত</item>
+    </plurals>
+</resources>

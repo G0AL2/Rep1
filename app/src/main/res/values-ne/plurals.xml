@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">%d सेकेन्ड फास्ट फर्वार्ड गर्नुहोस्</item>
+        <item quantity="other">%d सेकेन्ड फास्ट फर्वार्ड गर्नुहोस्</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">%d सेकेन्ड रिवाइन्ड गर्नुहोस्</item>
+        <item quantity="other">%d सेकेन्ड रिवाइन्ड गर्नुहोस्</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="one">1 फाइल डाउनलोड गर्दै</item>
+        <item quantity="other">%d फाईलहरू डाउनलोड गर्दै</item>
+    </plurals>
+    <plurals name="push_unwatch_hint_title">
+        <item quantity="one">१ भिडियो खोलेको छैन</item>
+        <item quantity="other">%d भिडियोहरू अनचेन्च</item>
+    </plurals>
+</resources>

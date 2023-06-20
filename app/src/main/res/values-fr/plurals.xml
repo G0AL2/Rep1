@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+        <item quantity="one">Avancer de %d seconde</item>
+        <item quantity="other">Avancer de %d secondes</item>
+    </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+        <item quantity="one">Revenir en arrière de %d seconde</item>
+        <item quantity="other">Revenir en arrière de %d secondes</item>
+    </plurals>
+    <plurals name="notif_summary_active">
+        <item quantity="one">1 téléchargement de fichier</item>
+        <item quantity="other">Téléchargement de fichiers %d</item>
+    </plurals>
+    <plurals name="push_unwatch_hint_title">
+        <item quantity="one">1 vidéo non visionnée</item>
+        <item quantity="other">%d vidéos non visionnées</item>
+    </plurals>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_cancel">Cancelar</string>
+    <string name="download_done">Descarga completa</string>
+    <string name="download_failed">Falló</string>
+    <string name="download_file_error">Error en la escritura del archivo</string>
+    <string name="download_http_data_error">Conexión agotada</string>
+    <string name="download_insufficient_space_error">Sin espacio de almacenamiento</string>
+    <string name="download_pause">En pausa</string>
+    <string name="download_paused_by_app">A la espera del Wi-Fi</string>
+    <string name="download_running">Descargando</string>
+    <string name="download_waiting_retry">Esperando el reintento automático</string>
+    <string name="learn_more">Más información</string>
+    <string name="push_channel_name">notificaciones push</string>
+    <string name="push_unwatch_hint_message">Haga clic para empezar.</string>
+</resources>
